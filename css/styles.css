@@ -1,0 +1,22 @@
+.image {
+    height: 300px;
+    width: auto;
+}
+
+.recipe-list {
+    font-family: monospace;
+    font-size: x-large;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+h3 {
+    font-style: italic;
+    font-size: 24px;
+}
+
+ul, ol {
+    font-size: 18px;
+}
